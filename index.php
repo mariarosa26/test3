@@ -14,19 +14,34 @@
 
 <div>
 	<label>Firstname:</label>
-	<input type="text" name="Firstname" class="form control">
+	<input type="text" name="Firstname" class="form-control">
 </div>
 
 <div>
 	<label>Middlename:</label>
-	<input type="text" name="Middlename" class="form control">
+	<input type="text" name="Middlename" class="form-control">
 </div> 
 
 <div>
 	<label>Lastname:</label>
-	<input type="text" name="Lastname" class="form control">
+	<input type="text" name="Lastname" class="form-control">
 </div> 
 
+	<div>
+	<label>Age:</label>
+	<input type="text" name="Age" class="form-control">
+</div> 
+	<div>
+	<label>Address:</label>
+	<input type="text" name="Address" class="form-control">
+</div> 
+	<div>
+	<label>Course & Section:</label>
+	<input type="text" name="CourseSection" class="form-control">
+</div> 
+	<div>
+	<button type="submit" class="btn btn-primary">Submit</button>
+</div> 
 </html>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
