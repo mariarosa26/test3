@@ -13,30 +13,30 @@
 
 <div>
 	<label>Firstname:</label>
-	<input type="text" name="Firstname" class="form-control">
+	<input type="text" name="firstname" class="form-control">
 </div>
 
 <div>
 	<label>Middlename:</label>
-	<input type="text" name="Middlename" class="form-control">
+	<input type="text" name="middlename" class="form-control">
 </div> 
 
 <div>
 	<label>Lastname:</label>
-	<input type="text" name="Lastname" class="form-control">
+	<input type="text" name="lastname" class="form-control">
 </div> 
 
 	<div>
 	<label>Age:</label>
-	<input type="text" name="Age" class="form-control">
+	<input type="text" name="age" class="form-control">
 </div> 
 	<div>
 	<label>Address:</label>
-	<input type="text" name="Address" class="form-control">
+	<input type="text" name="address" class="form-control">
 </div> 
 	<div>
 	<label>Course & Section:</label>
-	<input type="text" name="CourseSection" class="form-control">
+	<input type="text" name="coursesection" class="form-control">
 </div> 
 	<div>
 	<button type="submit" class="btn btn-primary">Submit</button>
